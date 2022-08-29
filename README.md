@@ -1,6 +1,6 @@
-# Clon Facebook Login - UNOFFICIAL SITE
+# Clon Facebook Login
 
-Live view https://joaquinmetayer.github.io/clonfacebooklogin/
+Live view https://jmclonfacebooklogin.netlify.app/
 
 Original site:
 
